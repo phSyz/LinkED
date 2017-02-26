@@ -6,12 +6,12 @@ Rails version 5.0.1
 
 To run locally in command line:
 
-* git checkout master
-* git fetch
-* git rebase origin master
+* $git checkout master
+* $git fetch
+* $git rebase origin master
 
-* rails s
+* $rails s
 
-in browser, navigate to indicated local host (should be loaclhost:3000)
+in browser, navigate to indicated local host (should be localhost:3000)
 
 # LinkED
