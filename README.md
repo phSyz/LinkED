@@ -1,25 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Using:
+Ruby version 2.4.0 (2016-12-24 revision)
+Rails version 5.0.1
 
-Things you may want to cover:
+To run locally in command line:
 
-* Ruby version
+git checkout master
+git fetch
+git rebase origin master
 
-* System dependencies
+rails s
 
-* Configuration
+* in browser, navigate to indicated local host (should be loaclhost:3000) *
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # LinkED
