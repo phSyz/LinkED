@@ -12,6 +12,6 @@ To run locally in command line:
 
 * $rails s
 
-in browser, navigate to indicated local host (should be localhost:3000)
+In browser, navigate to indicated local host (should be localhost:3000)
 
 # LinkED
